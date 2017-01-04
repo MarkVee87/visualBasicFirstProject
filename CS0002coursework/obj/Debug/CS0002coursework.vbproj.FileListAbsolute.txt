@@ -1,0 +1,12 @@
+C:\Users\Mark\AppData\Local\Temporary Projects\CS0002coursework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\AppData\Local\Temporary Projects\CS0002coursework\obj\Debug\CS0002coursework.Resources.resources
+C:\Users\Mark\AppData\Local\Temporary Projects\CS0002coursework\obj\Debug\CS0002coursework.vbproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CS0002coursework\CS0002coursework\bin\Debug\CS0002coursework.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CS0002coursework\CS0002coursework\bin\Debug\CS0002coursework.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CS0002coursework\CS0002coursework\bin\Debug\CS0002coursework.xml
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CS0002coursework\CS0002coursework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CS0002coursework\CS0002coursework\obj\Debug\CS0002coursework.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CS0002coursework\CS0002coursework\obj\Debug\CS0002coursework.vbproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CS0002coursework\CS0002coursework\obj\Debug\CS0002coursework.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CS0002coursework\CS0002coursework\obj\Debug\CS0002coursework.xml
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\CS0002coursework\CS0002coursework\obj\Debug\CS0002coursework.pdb
